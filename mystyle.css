@@ -1,0 +1,16 @@
+img {
+    width: 200px;
+    height:200px;
+}
+h1 {
+    font-size: 50px;
+    color: red;
+    font-weight: bolder;
+    font-style: italic;
+}
+li {
+    border-radius: 30px;
+    font-style: italic;
+    font-weight: bold;
+} 
+
